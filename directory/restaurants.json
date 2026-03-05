@@ -1,0 +1,20 @@
+[
+    {
+        "name": "In-N-Out Burger",
+        "cuisine": "American",
+        "type": "Fast Food",
+        "price_range": "$"
+    },
+    {
+        "name": "Chick-fil-A",
+        "cuisine": "American",
+        "type": "Fast Food",
+        "price_range": "$"
+    },
+    {
+        "name": "Panda Express",
+        "cuisine": "Chinese",
+        "type": "Fast Food",
+        "price_range": "$"
+    }
+]
