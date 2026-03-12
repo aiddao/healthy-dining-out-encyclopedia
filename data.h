@@ -17,4 +17,8 @@ typedef struct Food {
     double price;
 } Food;
 
+int get_list_count(char *filename);
+Restaurant *load_restaurants(char *filename);
+Food *load_menu(char *filename);
+
 #endif // DATA_H
